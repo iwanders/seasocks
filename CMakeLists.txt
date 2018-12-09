@@ -48,4 +48,3 @@ if (DEFLATE_SUPPORT)
 endif ()
 
 add_subdirectory("src")
-
